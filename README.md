@@ -32,5 +32,5 @@ Um dashboard interativo construído com [Streamlit](https://streamlit.io/) para 
 Este projeto é apenas para fins educacionais e de portfólio. Não afiliado à The Pokémon Company ou Nintendo.
 
 ## ✨ Créditos
-Desenvolvido por Thales Batagia
+Desenvolvido por Thales Batagia.
 Inspirado pelo universo Pokémon.
