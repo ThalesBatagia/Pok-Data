@@ -11,7 +11,7 @@ st.set_page_config(page_title="PokéData", page_icon=":bar_chart:", layout="wide
 df = pd.read_csv('pokemon_data.csv')
 
 # Criação de containers para melhor organização visual
-st.title("📊 PokéData Explorer")
+st.title("📊 PokéData")
 st.markdown("Um dashboard interativo para fãs de Pokémon que querem mergulhar fundo nos dados. Acompanhe categorias, atributos e curiosidades em gráficos bonitos e informativos.")
 
 st.markdown("---")
